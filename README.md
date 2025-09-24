@@ -1,6 +1,6 @@
 # Get Location App
 
-Whats Your Location is an app that tracks your location as well as longitude and latitude.
+Get Location is an app that tracks your location as well as longitude and latitude.
 
 # Required Features
 
